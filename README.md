@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Python & Laravel Developer** with experience in **backend development, AI automation, game development, and full-stack web development**. I love solving complex problems, building scalable applications, and working on innovative projects.
+I'm a passionate **Python, C++ & Laravel Developer** with experience in **backend development, AI automation, game development, and full-stack web development**. I love solving complex problems, building scalable applications, and working on innovative projects.
 
 - 🔥 Specializing in **API development, database optimization, Unity, Godot, and system automation**.
 - 🌍 Open to collaboration on **open-source projects** and **exciting software solutions**.
